@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Testing Readability with a Bunch of Text"
-date: 2012-05-22
-excerpt: "A ton of text to test readability."
-tags: [sample post, readability, test]
+title: "10.27学习报告"
+date: 2020-10-27
+excerpt: "今日成果报告."
+tags: [test]
 comments: true
 ---
 
 
 
-## 10.27学习成果
+# 10.27学习成果
 
 1.找到了合适的JEKYLL模板,并且用上了
 
@@ -20,4 +20,12 @@ comments: true
 4.看了一点点书
 
 5.摸了
+
+# 明日目标
+
+1.完善blog
+
+2.读一部分《如何阅读一本书》并做笔记
+
+
 
